@@ -12,7 +12,10 @@ They're mostly about embedded software, scripting and some web.
 <br>
 
 [![@cortesja](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cortesja)
-[![@cortesja](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgeacortes/)
+[![jorgeacortes](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorgeacortes/)
+
+[![@cortesja](https://img.shields.io/badge/docker-%23099cec.svg?&style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/cortesja)
+[![jorgeacortes](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/jorgeacortes)
 
 <br>
 
