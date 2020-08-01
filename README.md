@@ -16,7 +16,8 @@ They're mostly about embedded software, scripting and some web.
 
 [![@cortesja](https://img.shields.io/badge/docker-%23099cec.svg?&style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/cortesja)
 [![jorgeacortes](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/jorgeacortes)
+[![jorgeacortes](https://img.shields.io/badge/gists-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/jorgeacortes)
 
 <br>
 
-![Relative date](https://img.shields.io/date/1595776635?label=last%20updated)
+![Relative date](https://img.shields.io/date/1596292982?label=last%20updated)
